@@ -1,0 +1,7 @@
+﻿.table-striped tbody > tr:nth-child(odd) > td, .table-striped tbody > tr:nth-child(odd) > th {
+	background-color: rgb(226,209,209);
+}
+
+.table-hover tbody tr:hover > td, .table-hover tbody tr:hover > th {
+	background-color: rgb(226,190,190);
+}
